@@ -7,7 +7,8 @@ Vasileios Sevetlidis and George Pavlidis
 Athena Research Center
 
 Project page: <https://vasiseve.github.io/Gauge-Invariant-Representation-Holonomy/>  
-Paper repository: <https://github.com/vasiseve/Gauge-Invariant-Representation-Holonomy>
+Paper repository: <https://github.com/vasiseve/Gauge-Invariant-Representation-Holonomy>  
+Author site: <https://vasiseve.github.io/>
 
 ## Scope
 
